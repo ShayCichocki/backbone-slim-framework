@@ -1,7 +1,7 @@
 {
   "name": "Simple App",
   "version": "0.0.1",
-  "homepage": "https://github.com/Agentsnakezero/Simple App",
+  "homepage": "https://github.com/ShayCichocki/backbone-slim-framework",
   "description": "Simple App",
   "dependencies": {
     "backbone": "*",
