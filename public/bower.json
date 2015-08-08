@@ -1,0 +1,15 @@
+{
+  "name": "Simple App",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Agentsnakezero/Simple App",
+  "description": "Simple App",
+  "dependencies": {
+    "backbone": "*",
+    "backbone-forms": "*",
+    "bootstrap": "*",
+    "handlebars": "*",
+    "jquery": "*",
+    "requirejs-text" : "*",
+    "underscore": "*"
+  } 
+}

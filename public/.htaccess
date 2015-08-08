@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^users/duplicates index.php/users/duplicates [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^/index.php
+RewriteRule ^ index.php [QSA,NC,L]
+

@@ -1,0 +1,17 @@
+{
+"require": {
+        "slim/slim": "2.*",
+        "itsgoingd/slim-services": "dev-master",
+        "illuminate/database": "*",
+        "illuminate/validation": "*",
+        "illuminate/filesystem": "*",
+        "illuminate/translation": "*",
+        "slim/views": "*",
+        "twig/twig":"~1.0"
+    },
+    "autoload": {
+        "files": [ "app/db_config.php" ],
+        "classmap": [ "app/models" ]
+    }
+}
+
