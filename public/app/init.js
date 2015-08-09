@@ -1,4 +1,4 @@
-//
+//Fires off the application
 define(function (require) {
 
   var $ = require('jquery'),
