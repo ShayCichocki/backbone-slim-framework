@@ -8,7 +8,6 @@ define(function (require) {
   return Backbone.View.extend({
 
     initialize: function(options) {
-      //Sets the collection and binds a render event to it
       this.sample_model = options.sample_model;
     },
     render: function () {
