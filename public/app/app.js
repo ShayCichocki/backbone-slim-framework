@@ -1,13 +1,4 @@
-//
-// Application
-// =============================================================================
-//
-// * Author: [Shay Cichocki]
-// * Since: 2/13/2015
-// * central rendering for app
-// -----------------------------------------------------------------------------
-//
-
+// Provides a central rendering function for the app
 define(function (require) {
   var $ = require('jquery'),
       app = {
